@@ -27,6 +27,7 @@ A key part of the project is the **implementation of a custom data structure**, 
 🛠️ Technologies Used
 
 Programming Language: Java
+
 Data Structures: Custom implementation
 
 📚 Status
